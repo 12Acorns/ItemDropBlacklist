@@ -1,1 +1,1 @@
-# Stop-Specific-Item-Drop
+# ItemDropBlacklist
